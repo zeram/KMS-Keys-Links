@@ -12,4 +12,7 @@ Other Links:
 https://www.adamfowlerit.com/2012/11/how-to-enable-office-2013-kms-host/
 https://docs.microsoft.com/en-us/previous-versions/office/office-2013-resource-kit/dn385357(v%3doffice.15)
 
+nslookup -type=srv _vlmcs._tcp
+https://blogs.technet.microsoft.com/odsupport/2011/11/14/how-to-discover-office-and-windows-kms-hosts-via-dns-and-remove-unauthorized-instances/
+
 
